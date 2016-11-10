@@ -1,3 +1,2 @@
 # hello-world
-first repository
-test
+hi, this is jindo
